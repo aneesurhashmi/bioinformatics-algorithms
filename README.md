@@ -14,6 +14,7 @@ Minumum Skew (G-C)
 Hamming Distance
 
 Neighbors
+
 Frequent_words with Mismatches
 
 
